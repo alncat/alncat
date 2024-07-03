@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alncat, Zhenwei Luo (罗镇威)
+- 👋 Hi, I’m @alncat, 罗镇威, 字本笃, Zhenwei (Benedict) Luo
 - 👀 I’m interested in cryo-EM, structural biology
 - 🌱 I’m currently working on deep learning based methods for structural biology
 - 📖 My publications to date: (all can be found in my repos)
